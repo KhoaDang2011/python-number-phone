@@ -96,8 +96,3 @@ MIT — xem file LICENSE để biết chi tiết.
 ## Liên hệ
 Tác giả: KhoaDang2011  
 Repo: https://github.com/KhoaDang2011/python-number-phone
-
-Nếu bạn muốn, mình có thể:
-- Điều chỉnh README theo API thực tế của repo (nêu tên module / các hàm chính).
-- Tạo file README.md trực tiếp trong repo cho bạn (cần quyền hoặc xác nhận owner/repo để thực hiện).
-```
